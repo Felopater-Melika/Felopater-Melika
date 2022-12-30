@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Revamping my portfolio, some portfolio projects, and installing the glorious Arch Linux<br>👯 I’m looking to collaborate on Any JS project<br>🌱 I’m currently learning: Python, MongoDB, Express.JS, and React Native<br>⚡ Fun fact: I only started Coding at 12 years-old because I wanted to mod minecraft and turns out this is a passion for me
+🔭 I’m currently working on: Starting freelance and getting a job.<br>👯 I’m looking to collaborate on Any JS project<br>🌱 I’m currently learning: Python, MongoDB, Express.JS, and React Native<br>⚡ Fun fact: I only started Coding at 12 years-old because I wanted to mod minecraft and turns out this is a passion for me
 
 
 ## 🌐 Socials:
