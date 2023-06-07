@@ -1,9 +1,9 @@
 # 💫About Me :
-🔭 I’m currently working on: Astral-Store, and some freelance projects
-🌱 I’m currently learning: Databases, Nest.JS, Angular, C#, .NET, PHP, LARAVEL, WordPress, Rails, AWS
-📫 How to reach me: LinkedIn
-💬 Ask me about: React, Next, Javascript
-⚡ Fun fact: I only started coding when I was 12 in Java just to mod Minecraft.
+###🔭 I’m currently working on: Astral-Store, and some freelance projects
+###🌱 I’m currently learning: Databases, Nest.JS, Angular, C#, .NET, PHP, LARAVEL, WordPress, Rails, AWS
+###📫 How to reach me: LinkedIn
+###💬 Ask me about: React, Next, Javascript
+###⚡ Fun fact: I only started coding when I was 12 in Java just to mod Minecraft.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felopater-melika) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14110954) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FelopaterMelika) 
