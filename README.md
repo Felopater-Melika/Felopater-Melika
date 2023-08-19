@@ -1,6 +1,6 @@
 # 💫About Me :
-### 🔭 I’m currently working on: Microservices
-### 🌱 I’m currently learning: Cloud services and software architecture
+### 🔭 I’m currently working on: A gamification productivity app
+### 🌱 I’m currently learning: Cloud services, software architecture, and dev ops
 ### ⚡ Fun fact: I only started coding when I was 12 in Java just to mod Minecraft.
 
 ## 🌐Socials
